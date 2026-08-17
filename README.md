@@ -4,7 +4,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Screenshot
 
-![desktop-screenshot](./images/127.0.0.1_5500_index.html.png)
+![desktop-screenshot](./images/desktop-screenshot.png)
 
 ### Links
 
